@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-aiogram = "~=2.2"
+aiogram = "~=2.23"
 environs = "~=9.5"
 
 [dev-packages]
